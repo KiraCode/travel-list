@@ -83,7 +83,7 @@ input {
   padding: 4rem 0;
 
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-direction: column;
   gap: 3.2rem;
   align-items: center;
