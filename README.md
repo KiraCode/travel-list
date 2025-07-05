@@ -17,7 +17,7 @@ Travel list is a simple React-based travel packing list app to help users effici
 
 ## 🖼️ UI Overview
 
-![Travel List Screenshot](./assets/travel-list.png)
+![Travel List Screenshot](./src/assets/travel-list.png)
 
 
 ## 🛠️ Tech Stack
